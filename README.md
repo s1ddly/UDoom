@@ -24,7 +24,7 @@ make
 ```
 Now at this point, you should open another terminal window and launch the Xephyr window:  
 ```
-Xephyer :2 -ac -screen 640x480x8
+Xephyr :2 -ac -screen 640x480x8
 ```
 Return to the other terminal and run the below:  
 ```
